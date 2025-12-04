@@ -4,6 +4,6 @@
 
 #### Trying GIT
 
-Name : Hilmi Musyafa
-NIM : 103012300283
-Division : Backend
+- Name : Hilmi Musyafa
+- NIM : 103012300283
+- Division : Backend
